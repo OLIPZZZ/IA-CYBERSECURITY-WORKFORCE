@@ -39,7 +39,7 @@ A adoção em massa da IA, com o advento da **IA Generativa (GenAI)** e modelos 
 
 | Métrica | Valor |
 |---------|-------|
-| Mercado global de IA em 2025 | **$244 bilhões** |
+| Mercado global de IA em 2025 | **US$ 294,16 bilhões** |
 | Projeção para 2030 | **>$800 bilhões** |
 | Empresas usando IA globalmente | **72%** |
 | Organizações com IA em cibersegurança | **77%** |
