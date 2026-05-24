@@ -42,7 +42,7 @@ A adoção em massa da IA, com o advento da **IA Generativa (GenAI)** e modelos 
 | Mercado global de IA em 2025 | **$244 bilhões** |
 | Projeção para 2030 | **>$800 bilhões** |
 | Empresas usando IA globalmente | **72%** |
-| Organizações com IA em cibersegurança | **97%** |
+| Organizações com IA em cibersegurança | **77%** |
 | Crescimento do mercado de cibersegurança no Brasil (2028) | **17,6% a.a.** |
 | Déficit global de profissionais em cibersegurança | **2,8–4,8 milhões de vagas** |
 
